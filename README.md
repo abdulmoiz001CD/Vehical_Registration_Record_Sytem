@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Vehicle Registration System - C++ Project
 
 This is a **simple console-based Vehicle Registration System** built using C++. It allows users to:
@@ -92,3 +93,6 @@ Contact: abdulmoizs2005@gmail.com
 
 📃 License
 This project is open-source and free to use under the MIT License.
+=======
+# Vehical_Registration_Record_Sytem
+>>>>>>> 2aa6206534c01c93c37ce5c69511a1502cd37bb7
