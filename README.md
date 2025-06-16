@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚗 Vehicle Registration System - C++ Project
 
 This is a **simple console-based Vehicle Registration System** built using C++. It allows users to:
